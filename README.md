@@ -1,4 +1,5 @@
 Email Automation System
+
 Aplicação GUI para automação de envio de emails com anexos PDF, extração de endereços de email de documentos e monitoramento de pastas.
 
 📌 Visão Geral
